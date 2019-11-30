@@ -1,4 +1,4 @@
-# Useful-Utilities
+# Useful-Utilities ( ... in progress ... )
 Helps in data manipulations and analysis, which I used in the research. I include several components: 
 
 File 1. Ways to go about manipulating, grouping, pivoting (panel) data using Pandas.
